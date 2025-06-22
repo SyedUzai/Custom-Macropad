@@ -7,6 +7,7 @@
 This project served as a hands-on learning experience in electronics design, PCB layout, mechanical CAD, and embedded firmware development.
 
 ---
+![IMG_1644](https://github.com/user-attachments/assets/7b689b62-aae1-4b39-a38e-3f1c089dcf61)
 
 ## 🧰 Features
 
