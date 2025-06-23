@@ -131,13 +131,13 @@ The **MacroUzaz** project was created as a practical learning opportunity to:
 
 ## 📜 License
 
-This project is open-source and intended for educational and personal use. See `LICENSE` file for more details.
+This project is open-source and intended for educational and personal use.
 
 ---
 
 ## 🙌 Credits
 
-Designed and built by **Uzi Ali**  
+Designed and built by **Syed Uzair Ali**  
 Firmware based on [QMK](https://qmk.fm/)  
 OLED graphics inspired by open QMK community contributions
 
