@@ -95,27 +95,12 @@ The **MacroUzaz** project was created as a practical learning opportunity to:
 ## 🧪 What I Learned
 
 - PCB design principles and constraints for a compact device
+- Mechanical Design using Solidworks
 - How to implement a key matrix and debounce logic
-- SPI peripheral communication (OLED)
+- SPI peripheral communication (OLED) and USB HID
 - Rotary encoder integration
 - Using QMK for rich firmware customization
 - The importance of iterative testing and modular design
-
----
-
-## 📁 File Structure
-
-```
-.
-├── altium_project/         # Altium PCB and schematic files
-├── firmware/               # QMK keymap files and config
-│   ├── keymap.c
-│   ├── config.h
-│   └── rules.mk
-├── 3d_printed_case/        # STL/STEP files for enclosure (if any)
-├── docs/                   # Images, diagrams, readme assets
-└── README.md
-```
 
 ---
 
@@ -123,7 +108,6 @@ The **MacroUzaz** project was created as a practical learning opportunity to:
 
 - Add RGB underglow or per-key lighting
 - Bluetooth version using an nRF52 MCU
-- Use capacitive touch instead of mechanical switches
 - Expand to a larger 5x3 layout
 - Add USB passthrough or additional encoder
 
