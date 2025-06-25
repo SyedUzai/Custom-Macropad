@@ -87,7 +87,7 @@ The **MacroUzaz** project was created as a practical learning opportunity to:
 ---
 
 ## 📸 Gallery
-
+![Macrouzaz_pic](https://github.com/user-attachments/assets/933eafea-c8aa-428a-a432-db8ecc4490f5)
 ![IMG_1644](https://github.com/user-attachments/assets/7b689b62-aae1-4b39-a38e-3f1c089dcf61)
 
 ---
